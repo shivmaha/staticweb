@@ -1,4 +1,4 @@
-#Docker integration
+#Docker integration : Container
 FROM ubuntu:14.04
 MAINTAINER Docker Education Team <education@docker.com>
 
